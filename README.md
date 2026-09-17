@@ -19,11 +19,11 @@ You can reach me through my
 
 
 ## Interests
-* Full Stack Web Development
+* Machine Learning
   
 * Software Engineering
-  
-* Machine Learning
+
+* Full Stack Web Development
 
 
 ## Tech Stack
