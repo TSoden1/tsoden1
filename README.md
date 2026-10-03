@@ -1,7 +1,7 @@
 <img widt=100 src="https://capsule-render.vercel.app/api?type=waving&height=150&color=25:306844,75:2c4c3b&reversal=false&descAlign=50&descAlignY=50" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans+JP&pause=1000&color=306844&width=435&lines=Hi+im+Tyler!" alt="Intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans+JP&pause=1000&color=306844&width=435&lines=Hi+I'm+Tyler!" alt="Intro"/>
 </a>
 
 ## Intro
